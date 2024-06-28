@@ -1,0 +1,1 @@
+Here are daily journal entries about software development.
